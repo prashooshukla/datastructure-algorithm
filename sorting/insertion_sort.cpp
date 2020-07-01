@@ -82,7 +82,7 @@ signed main()
     cout << "after sorting:\n";
     print(arr);
    
-    reverse_insertion_sort(arr, n);
+    reverse_insertion_sort(arr, n);   
     cout << "after reverese sort:\n";
     print(arr);
    
