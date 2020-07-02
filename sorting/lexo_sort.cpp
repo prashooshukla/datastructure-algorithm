@@ -16,7 +16,7 @@ string sort(string str) {
         }
         if (str[i] >= 'A' and str[i] <= 'Z') {
             ++big[str[i] - 'A'];
-        }
+        } 
     }
     for (int i = 0; i < MAX_CHAR; i++) {
         for (int j = 0; j < small[i]; j++) {
