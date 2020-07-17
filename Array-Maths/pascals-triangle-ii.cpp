@@ -1,3 +1,4 @@
+// https://www.interviewbit.com/problems/kth-row-of-pascals-triangle/
 // https://leetcode.com/problems/pascals-triangle-ii
 
 #include <bits/stdc++.h>
