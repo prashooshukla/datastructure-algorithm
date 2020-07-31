@@ -92,7 +92,7 @@ void nextPermutation(string& S, int N) {
     }
 }
 
-string Solution::solve(string A) {
+string solve(string A) {
     int N = (int)A.length();
     if (all_9(A)) {
         string res = "";
